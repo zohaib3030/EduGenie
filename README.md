@@ -1,5 +1,5 @@
 # 📘 PDF → Quiz Generator
-AI-powered app to convert PDF content into MCQs and short questions.
+AI-powered app to convert PDF content into MCQs.
 
 ## Features
 - Extracts text from PDF
